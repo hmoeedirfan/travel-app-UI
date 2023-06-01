@@ -112,7 +112,7 @@ class _MyAppState extends State<MyApp> {
                     style: const TextStyle(
                       color: Colors.white,
                       fontWeight: FontWeight.bold,
-                      fontSize: 40,
+                      fontSize: 36,
                     ),
                   ),
                   Padding(
@@ -122,27 +122,27 @@ class _MyAppState extends State<MyApp> {
                         const Icon(
                           Icons.star,
                           color: Colors.yellow,
-                          size: 20,
+                          size: 16,
                         ),
                         const Icon(
                           Icons.star,
                           color: Colors.yellow,
-                          size: 20,
+                          size: 16,
                         ),
                         const Icon(
                           Icons.star,
                           color: Colors.yellow,
-                          size: 20,
+                          size: 16,
                         ),
                         const Icon(
                           Icons.star,
                           color: Colors.yellow,
-                          size: 20,
+                          size: 16,
                         ),
                         const Icon(
                           Icons.star,
                           color: Colors.grey,
-                          size: 20,
+                          size: 16,
                         ),
                         Padding(
                           padding: const EdgeInsets.only(left: 10),
@@ -150,7 +150,7 @@ class _MyAppState extends State<MyApp> {
                             '4.0',
                             style: TextStyle(
                               color: Colors.white.withOpacity(.7),
-                              fontSize: 16,
+                              fontSize: 14,
                             ),
                           ),
                         ),
@@ -167,7 +167,7 @@ class _MyAppState extends State<MyApp> {
                   Text(
                     message,
                     style: const TextStyle(
-                      fontSize: 18,
+                      fontSize: 14,
                       height: 1.8,
                       color: Colors.white,
                     ),
